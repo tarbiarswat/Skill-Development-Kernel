@@ -5,7 +5,7 @@
      
         <meta charset="utf-8">
        
-        <title>Bookflare - A Modern Education & LMS html template</title>
+        <title>Skill Development Kernel</title>
 
         <meta name="author" content="ultraverge.com">
 
