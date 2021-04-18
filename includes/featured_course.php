@@ -25,13 +25,6 @@
                         </div>
                         <div class="wrap-rating-price">
                             <div class="wrap-rating">
-                                <ul class="list star-list">
-                                    <li><i class="far fa-star"></i></li>
-                                    <li><i class="far fa-star"></i></li>
-                                    <li><i class="far fa-star"></i></li>
-                                    <li><i class="far fa-star"></i></li>
-                                    <li><i class="far fa-star"></i></li>
-                                </ul>
                                 <span>5.0  (980)</span>
                             </div>
                             <span class="price">FREE</span>
@@ -58,13 +51,6 @@
                         </div>
                         <div class="wrap-rating-price">
                             <div class="wrap-rating">
-                                <ul class="list star-list">
-                                    <li><i class="far fa-star"></i></li>
-                                    <li><i class="far fa-star"></i></li>
-                                    <li><i class="far fa-star"></i></li>
-                                    <li><i class="far fa-star"></i></li>
-                                    <li><i class="far fa-star-half"></i></li>
-                                </ul>
                                 <span>4.7  (2,632)</span>
                             </div>
                             <span class="price">$49.00</span>
@@ -91,13 +77,6 @@
                         </div>
                         <div class="wrap-rating-price">
                             <div class="wrap-rating">
-                                <ul class="list star-list">
-                                    <li><i class="far fa-star"></i></li>
-                                    <li><i class="far fa-star"></i></li>
-                                    <li><i class="far fa-star"></i></li>
-                                    <li><i class="far fa-star"></i></li>
-                                    <li><i class="far fa-star-half"></i></li>
-                                </ul>
                                 <span>4.8  (7,982)</span>
                             </div>
                             <span class="price">$39.00</span>

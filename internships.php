@@ -1,20 +1,19 @@
 <!DOCTYPE html>
     <head>
-
     <?php  include('includes/head.php')  ?>
-    
-    </head>  
+    </head> 
+
     <body class="bg-body3"> 
         <div class="boxed">
 
             <?php  include('includes/header.php')  ?>
-
 
             <div class="content-wrap event-v2-page">
                 <div class="container">
                     <div class="content-page-wrap">
                         <div class="flat-events style2">
                             <div class="row">
+
                                 <div class="col-lg-4 col-md-6 col-sm-12">
                                     <div class="event style2 border-f-e6f3ff">
                                         <div class="event-img">
@@ -35,6 +34,7 @@
                                         </div>
                                     </div>
                                 </div>
+
                                 <div class="col-lg-4 col-md-6 col-sm-12">
                                     <div class="event style2 border-f-e6f3ff">
                                         <div class="event-img">
@@ -55,6 +55,7 @@
                                         </div>
                                     </div>
                                 </div>
+
                                 <div class="col-lg-4 col-md-6 col-sm-12">
                                     <div class="event style2 border-f-e6f3ff">
                                         <div class="event-img">
@@ -75,6 +76,7 @@
                                         </div>
                                     </div>
                                 </div>
+
                                 <div class="col-lg-4 col-md-6 col-sm-12">
                                     <div class="event style2 border-f-e6f3ff">
                                         <div class="event-img">
@@ -95,6 +97,7 @@
                                         </div>
                                     </div>
                                 </div>
+
                                 <div class="col-lg-4 col-md-6 col-sm-12">
                                     <div class="event style2 border-f-e6f3ff">
                                         <div class="event-img">
@@ -115,6 +118,7 @@
                                         </div>
                                     </div>
                                 </div>
+
                                 <div class="col-lg-4 col-md-6 col-sm-12">
                                     <div class="event style2 border-f-e6f3ff">
                                         <div class="event-img">
@@ -136,7 +140,8 @@
                                     </div>
                                 </div>
                              
-                        </div> <!-- /.flat-events -->
+                        </div>
+                        
                         <div class="flat-paginations">
                             <ul class="list flat-text-center pagination-wrap">
                                 <li class="disabled"><a href="#" class="btn-navs">PRE</a></li>
@@ -147,13 +152,10 @@
                                 <li><a href="#">5</a></li>
                                 <li><a href="#" class="btn-navs">NEXT</a></li>
                             </ul>
-                        </div> <!-- .flat-paginations -->                   
-                    </div> <!-- /.content-page-wrap -->
-                </div> <!-- /.container -->
-            </div>
+                        </div>                  
+                    </div> 
+                </div> 
             
-            
-
 
 
         </div>

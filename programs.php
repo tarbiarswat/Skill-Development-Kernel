@@ -1,9 +1,8 @@
 <!DOCTYPE html>
     <head>
-
     <?php  include('includes/head.php')  ?>
-    
     </head>  
+    
     <body class="bg-body3"> 
         <div class="boxed">
 
