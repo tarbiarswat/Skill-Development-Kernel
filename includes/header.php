@@ -9,19 +9,19 @@
                                 <ul class="menu" >
 
                                     <li class="active">
-                                        <li class="active"><a href="#">HOME</a></li>
+                                        <li class="active"><a href="index.php">HOME</a></li>
                                     </li>
 
                                     <li>
-                                        <li ><a href="#">PROGRAMS</a></li>
+                                        <li ><a href="programs.php">PROGRAMS</a></li>
                                     </li>
 
                                     <li>
-                                        <li ><a href="#">INTERNSHIPS</a></li>
+                                        <li ><a href="internships.php">INTERNSHIPS</a></li>
                                     </li>
 
                                     <li>
-                                        <li ><a href="#">CONTACT US</a></li>
+                                        <li ><a href="contact.php">CONTACT US</a></li>
                                     </li>
                                                                           
                                 </ul>
