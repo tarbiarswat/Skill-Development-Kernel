@@ -2,7 +2,7 @@
                 <div class="container">
                     <div class="flat-title flat-text-center">
                         <h2 class="title">Discover Our Popular Courses</h2>
-                        <p class="description">Smply dummy text of the printing and typesetting industry. Choose what is best for you, we have a wide range of courses excluvily offered so that you can develop your skill and start your career in the proper way.</p>
+                        <p class="description">Choose what is best for you, we have a wide range of courses exclusively offered so that you can develop your skill and start your career in the proper way. Check out the programs bellow to see what fits you the best.</p>
                     </div> <!-- /.flat-title -->
                     <div class="flat-courses clear-sub-columns clearfix isotope-courses style2">
                         <div class="course style2 one-of-three text-2ebd59">

@@ -6,6 +6,7 @@
                                 <p>© Copyright 2021 <a href="#">Skill Development Kernel</a>. All Rights Reserved.</p>
                             </div>
                         </div>
+
                         <div class="  col-md-6">
                             <div class="widget flat-text-right no-border">
                                 <ul class="list">
@@ -15,10 +16,10 @@
                                     <li><a href="#">Sitemap</a></li>                    
                                 </ul>
                             </div>
+                            
                         </div>
                     </div>
-                </div>
-            </div> <!-- /.bottom -->
+                </div> <!-- /.bottom -->
             
 <a id="scroll-top"></a>
 <script src="javascript/jquery.min.js"></script>
