@@ -19,8 +19,8 @@
                     <div class="course-content">
                         <div class="text-wrap border-bt-e6f3ff">
                             <h6 class="title"><a href="#">Build A Full Web Chat App</a></h6>
-                            <p class="teacher"><a href="#">Ana Murphy</a></p>
-                            <p class="description">Lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae.
+                            <p class="teacher"><a href="#">Coder Trust</a></p>
+                            <p class="description">Learn how be build a web chat model with the help of skill development platform.
                             </p>
                         </div>
                         <div class="wrap-rating-price">
@@ -52,8 +52,8 @@
                     <div class="course-content">
                         <div class="text-wrap border-bt-e6f3ff">
                             <h6 class="title"><a href="#">Complete JavaScript Course</a></h6>
-                            <p class="teacher"><a href="#">Rosy Janner</a></p>
-                            <p class="description">Lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae.
+                            <p class="teacher"><a href="#">Shikhbe Shobie</a></p>
+                            <p class="description">Learn all there is learn about JS on a go, this is essential for your carrer in web development.
                             </p>
                         </div>
                         <div class="wrap-rating-price">
@@ -67,7 +67,7 @@
                                 </ul>
                                 <span>4.7  (2,632)</span>
                             </div>
-                            <span class="price">$49.00</span>
+                            <span class="price">FREE</span>
                         </div>
                     </div>
                 </div>
@@ -86,7 +86,7 @@
                         <div class="text-wrap border-bt-e6f3ff">
                             <h6 class="title"><a href="#">Learning Python Data Analysis</a></h6>
                             <p class="teacher"><a href="#">Tom Steven</a></p>
-                            <p class="description">Lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae.
+                            <p class="description">Python is the future when it comes to ML and AI, learn the in and out of python here.
                             </p>
                         </div>
                         <div class="wrap-rating-price">
@@ -100,7 +100,7 @@
                                 </ul>
                                 <span>4.8  (7,982)</span>
                             </div>
-                            <span class="price">$39.00</span>
+                            <span class="price">FREE</span>
                         </div>
                     </div>
                 </div>
