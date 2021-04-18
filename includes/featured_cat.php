@@ -2,7 +2,7 @@
                 <div class="container">
                     <div class="flat-title flat-text-center">
                         <h2 class="title color-fff">Featured <span class="color-ec5252">Programs</span></h2>
-                        <p class="description color-fff">We offer the best courses from all the disciplines out there, choose the right program for your future and excel your carrer. Enroll today!</p>
+                        <p class="description color-fff">We offer the best courses from all the disciplines out there, choose the right program for your future and excel your carrer. Our aim is to push to your limit, so that you can be your best. Enroll today!</p>
                     </div>
 
                     <div class="row">

@@ -2,7 +2,7 @@
                 <div class="container">
                     <div class="flat-title flat-text-center">
                         <h2 class="title">Discover Our Popular Courses</h2>
-                        <p class="description">Smply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                        <p class="description">Smply dummy text of the printing and typesetting industry. Choose what is best for you, we have a wide range of courses excluvily offered so that you can develop your skill and start your career in the proper way.</p>
                     </div> <!-- /.flat-title -->
                     <div class="flat-courses clear-sub-columns clearfix isotope-courses style2">
                         <div class="course style2 one-of-three text-2ebd59">
@@ -40,7 +40,7 @@
                         <div class="course style2 one-of-three text-ea0042">
                             <div class="course-border border-f-e6f3ff border-ra4 transition-vline">   
                                 <div class="course-img img-vline">
-                                    <a href="#"><img src="images/dmarketing-1" alt="bookflare"></a>
+                                    <a href="#"><img src="images/dmarketing-1.jpg" alt="bookflare"></a>
                                     <div class="overlay">
                                         <span class="vline"></span>
                                         <span class="vline vline-bottom"></span>
