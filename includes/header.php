@@ -14,11 +14,11 @@
                         </li>
 
                         <li>
-                            <li ><a href="programs.php">PROGRAMS</a></li>
+                            <li ><a href="internships.php">INTERNSHIPS</a></li>
                         </li>
 
                         <li>
-                            <li ><a href="internships.php">INTERNSHIPS</a></li>
+                            <li ><a href="programs.php">PROGRAMS</a></li>
                         </li>
 
                         <li>

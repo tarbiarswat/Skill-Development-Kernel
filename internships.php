@@ -20,7 +20,7 @@
                                             <a href="#"><img src="images/intern-1.jpg" alt="intern-1"></a>
                                         </div>
                                         <div class="event-content">
-                                            <h6 class="title"><a href="#">Crisis Management and Team Building</a></h6>
+                                            <h6 class="title"><a href="#">Crisis Management</a></h6>
                                             <div class="meta-list">
                                                 <ul class="list">
                                                     <li class="time"><a href="#">08:00 - 11:00</a></li>
