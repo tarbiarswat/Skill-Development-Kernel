@@ -9,9 +9,13 @@
         <div class="boxed">
 
             <?php  include('includes/header.php')  ?>
+            <?php  include('includes/featured_cat.php')  ?>
             
-        </div>
+            
 
-        
+
+
+        </div>
+        <?php  include('includes/footer.php')  ?>
     </body>
 </html>
