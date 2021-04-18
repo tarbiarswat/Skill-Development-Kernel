@@ -13,16 +13,21 @@
             <?php  include('includes/featured_course.php')  ?>
 
             <section class="flat-free-month parallax parallax14">
-                    <div class="container">
-                        <div class="service-wrap flat-text-center">
-                            <h2 class="title"><a href="#">Start My Free Month!</a></h2>
-                            <p class="description">We offer professional SEO services that help websites <a href="#" class="link-site">increase their organic search</a> score drastically in order to compete for the highest rankings.</p>
-                            <div class="wrap-btn">
+                <div class="container">
+
+
+
+                    <div class="flat-title flat-text-center">
+                        <h2 class="title color-fff">Featured <span class="color-ec5252">Programs</span></h2>
+                        <p class="description color-fff">We offer the best courses from all the disciplines out there, choose the right program for your future and excel your carrer. Enroll today!</p>
+                        <div class="wrap-btn">
                                 <a href="#" class="flat-button btn-start border-ra4 font-Poppins font-weight-700">START MY FREE MONTH</a>
-                            </div>
                         </div>
+                    
                     </div>
-                </section>
+                        
+                </div>
+            </section>
             
             
 
