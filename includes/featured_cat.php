@@ -1,8 +1,8 @@
 <section class="flat-categories">
                 <div class="container">
                     <div class="flat-title flat-text-center">
-                        <h2 class="title color-fff">Top <span class="color-ec5252">Categories</span></h2>
-                        <p class="description color-fff">Smply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                        <h2 class="title color-fff">Featured <span class="color-ec5252">Programs</span></h2>
+                        <p class="description color-fff">We offer the best courses from all the disciplines out there, choose the right program for your future and excel your carrer. Enroll today!</p>
                     </div>
 
                     <div class="row">
@@ -36,7 +36,7 @@
                                     </span>
                                 </div>
                                 <div class="content">
-                                    <h6 class="title"><a href="#">IT AND SOFTWARE</a></h6>
+                                    <h6 class="title"><a href="#">MAINTENANCE</a></h6>
                                 </div>
                             </div>
                         </div>
@@ -60,7 +60,7 @@
                                     </span>
                                 </div>
                                 <div class="content">
-                                    <h6 class="title"><a href="#">MAKETING</a></h6>
+                                    <h6 class="title"><a href="#">DIGITAL MAKETING</a></h6>
                                 </div>
                             </div>
                         </div>
@@ -84,7 +84,7 @@
                                     </span>
                                 </div>
                                 <div class="content">
-                                    <h6 class="title"><a href="#">JAVA SCRIPT</a></h6>
+                                    <h6 class="title"><a href="#">OFFICE SKILLS</a></h6>
                                 </div>
                             </div>
                         </div>
@@ -132,7 +132,7 @@
                                     </span>
                                 </div>
                                 <div class="content">
-                                    <h6 class="title"><a href="#">ILLUSTRATION</a></h6>
+                                    <h6 class="title"><a href="#">POLICY MAKING</a></h6>
                                 </div>
                             </div>
                         </div>

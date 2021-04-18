@@ -3,7 +3,7 @@
                     <div class="row">
                         <div class="  col-md-6">
                             <div class="copyright flat-text-left">
-                                <p>© Copyright 2018 <a href="#">tophive</a>. All Rights Reserved.</p>
+                                <p>© Copyright 2021 <a href="#">Skill Development Kernel</a>. All Rights Reserved.</p>
                             </div>
                         </div>
                         <div class="  col-md-6">
