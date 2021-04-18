@@ -45,6 +45,21 @@
 
                                 <?php
 
+                                if(isset($_GET['ID'])){
+                                    
+
+                                    $sql = "SELECT * FROM sdk_settings WHERE id = '$ID' ";
+                                    $result = mysqli_query($dbc, $sql) or die ("Bad Query: $sql");
+                                    $row = mysqli_fetch_array($result);
+
+                                    
+
+                                echo $row['details'];
+
+
+
+                                }
+
                                 
 
                                 
