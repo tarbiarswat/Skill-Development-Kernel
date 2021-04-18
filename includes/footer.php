@@ -4,8 +4,6 @@
                         <div class="  col-md-6">
                             <div class="copyright flat-text-left">
 
-
-                            
                                 <p>© Copyright 2021 <a href="#">Skill Development Kernel</a>. All Rights Reserved.</p>
                             </div>
                         </div>
