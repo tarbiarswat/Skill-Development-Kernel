@@ -40,7 +40,7 @@
                         <div class="course style2 one-of-three text-ea0042">
                             <div class="course-border border-f-e6f3ff border-ra4 transition-vline">   
                                 <div class="course-img img-vline">
-                                    <a href="#"><img src="images/dmarketing-1" alt="bookflare"></a>
+                                    <a href="#"><img src="images/dmarketing-1.jpg" alt="bookflare"></a>
                                     <div class="overlay">
                                         <span class="vline"></span>
                                         <span class="vline vline-bottom"></span>
