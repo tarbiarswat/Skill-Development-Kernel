@@ -4,8 +4,6 @@
     <head>
      
         <meta charset="utf-8">
-       
-        <title>Skill Development Kernel</title>
 
         <meta name="author" content="ultraverge.com">
 
@@ -19,9 +17,13 @@
         <link rel="stylesheet" type="text/css" href="stylesheets/style.css">
         <link rel="stylesheet" type="text/css" href="stylesheets/responsive.css">
 
+        
+
 
         <link rel="shortcut icon" href="images/favicon.png">
         <link rel="apple-touch-icon-precomposed" href="images/favicon-apple.png">
+
+
 
 
     </head>  

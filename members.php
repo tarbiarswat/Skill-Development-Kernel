@@ -1,68 +1,57 @@
+
 <!DOCTYPE html>
 <html>
 <head>
+<link rel="stylesheet" type="text/css" href="./stylesheets/custom.css">
+
 	<title>SignUp and Login</title>
-	<link rel="stylesheet" type="text/css" href="./stylesheets/custom.css">
-	
+
 </head>
 <body>
-
-<div class="container" id="container">
-<div class="sform-container signup-container">
-
-<form method = "post" action = "#">
-	<h1>Create Account</h1>
-	
-	<span> </span>
-	<input type="text" name="name" placeholder="Name">
-	<input type="email" name="email" placeholder="Email">
-	<input type="password" name="password" placeholder="Password">
-	<button> Register </button>
-</form>
-</div>
-<div class="sform-container signin-container">
-
-	<form method = "post" action = "#">
-		<h1>Log In</h1>
-		
-	<span>  </span>
-	<input type="email" name="email" placeholder="Email">
-	<input type="password" name="password" placeholder="Password">
-
-	<button>Log In</button>
-	</form>
-</div>
-<div class="overlay_container">
-	<div class="overlay">
-		<div class="overlay-panel overlay-left">
-			<h3>Welcome Back!</h3>
-			<p>To keep connected with us please login with your personal info</p>
-			<button class="ghost" id="signIn">Log In </button>
-		</div>
-		<div class="overlay-panel overlay-right">
-			<h3>Hello, Friend!</h3>
-			<p> Don't have an account? Register now </p>
-			<button class="ghost" id="signUp"> Register </button>
-		</div>
-	</div>
-</div>
-</div>
-
-<script type="text/javascript">
-	const signUpButton = document.getElementById('signUp');
-	const signInButton = document.getElementById('signIn');
-	const container = document.getElementById('container');
-
-	signUpButton.addEventListener('click', () => {
-		container.classList.add("right-panel-active");
-	});
-	signInButton.addEventListener('click', () => {
-		container.classList.remove("right-panel-active");
-	});
-</script>
-
-
+  <section>
+    <div class="container">
+      <div class="user signinBx">
+        <div class="imgBx"><img src="./images/1.jpg" alt="" /></div>
+        <div class="formBx">
+          <form action="code.php" method="POST" >
+            <h2>Sign In</h2>
+            <input type="text" name="email_id" placeholder="Email" />
+            <input type="password" name="password" placeholder="Password" />
+            <input type="submit" name="login_btn" value="Login" />
+            <p class="signup">
+              Don't have an account ?
+              <a href="#" onclick="toggleForm();">Sign Up.</a>
+            </p>
+          </form>
+        </div>
+      </div>
+      <div class="user signupBx">
+        <div class="formBx">
+          <form action="" onsubmit="return false;">
+            <h2>Create an account</h2>
+            <input type="text" name="" placeholder="Username" />
+            <input type="email_id" name="" placeholder="Email Address" />
+            <input type="password" name="" placeholder="Create Password" />
+            <input type="password" name="" placeholder="Confirm Password" />
+            <input type="submit" name="" value="Sign Up" />
+            <p class="signup">
+              Already have an account ?
+              <a href="#" onclick="toggleForm();">Sign in.</a>
+            </p>
+          </form>
+        </div>
+        <div class="imgBx"><img src="./images/1.jpg" alt="" /></div>
+      </div>
+    </div>
+  </section>
 </body>
+<script>
+	const toggleForm = () => {
+	const container = document.querySelector('.container');
+	container.classList.toggle('active');
+	};
+
+</script>
 </html>
 
 
