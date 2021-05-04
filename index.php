@@ -11,6 +11,7 @@
             <?php  include('includes/header.php')  ?>
             <?php  include('includes/featured_cat.php')  ?>
             <?php  include('includes/featured_course.php')  ?>
+            
 
             <section class="flat-free-month parallax parallax14">
                 <div class="container">
