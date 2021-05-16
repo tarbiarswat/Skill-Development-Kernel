@@ -26,4 +26,31 @@ if(isset($_POST['login_btn']))
 }
 
 
+
+if(isset($_POST['registerbtn']))
+{
+    $fname = $_POST['fname'];
+    $lname = $_POST['lname'];
+    $email_id = $_POST['email_id'];
+    $password = $_POST['password'];
+    
+    
+    $query = "INSERT INTO users (fname, lname, email_id, password) VALUES ('$fname', '$lname', '$email_id' , '$password')";
+    $query_run = mysqli_query($connection, $query);
+
+    if(!$query_run)
+    {
+        header('location: members.php');
+    }
+    else
+    {
+        header('location: admin/index.php');
+    }
+
+
+
+}
+    
+
+
 ?>

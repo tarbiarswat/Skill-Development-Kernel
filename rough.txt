@@ -23,3 +23,14 @@
                                     
                                 
                                 ?>
+
+
+
+<label for="usertype">Select</label>
+            <div class="select">
+              <select id="usertype">
+                <option name="usertype" value="Individual">Individual</option>
+                <option name="usertype" value="Company">Company</option>
+              </select>
+              
+            </div>

@@ -27,27 +27,19 @@
       </div>
       <div class="user signupBx">
         <div class="formBx">
-          <form action="" onsubmit="return false;">
+          <form action="code.php" method="post" >
             <h2>Create an account</h2>
-            <input type="text" name="fname" placeholder="First Name" />
-            <input type="text" name="lname" placeholder="Last Name" />
-            <input type="email_id" name="email_id" placeholder="Email Address" />
-            <input type="password" name="password" placeholder="Create Password" />
-          
-            <div class="dropdown">
-            <button class="dropbtn">Account Type
-              <i class="fa fa-caret-down"></i>
-            </button>
-            <div class="dropdown-content">
-              <a href="#">Individual</a>
-              <a href="#">Company</a>
+            <input type="text" name="fname" required="" placeholder="First Name" />
+            <input type="text" name="lname" required="" placeholder="Last Name" />
+            <input type="email_id" name="email_id" required="" placeholder="Email Address" />
+            <input type="password" name="password" required="" placeholder="Password" />
             
-            </div>
-            </div>
-            <div>
-            <input type="submit" name="" value="Sign Up" />
+
+
+            
+            <input type="submit" name="registerbtn" value="Sign Up" />
             <p class="signup">
-            </div>
+            
               Already have an account ?
               <a href="#" onclick="toggleForm();">Sign in.</a>
             </p>
