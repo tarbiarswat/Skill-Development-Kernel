@@ -1,8 +1,13 @@
+
+
+
 <!DOCTYPE html>
 <html class="no-js" lang="en"> 
 <head>
 <?php  include('./includes/head.php')  ?>
 <?php  include('./includes/dbconfig.php')  ?>
+<?php  include('session.php')  ?>
+
 </head>
 <body>
     <div id="page-container" class="header-fixed-top sidebar-visible-lg-full">

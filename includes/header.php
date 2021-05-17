@@ -2,7 +2,7 @@
     <div class="container">
         <div class="header-wrap clearfix">
             <div id="logo">
-                <a href="index.php"></a>
+            <a href="index.php"><img src="images/logo.png" alt="Skill Development Kernel" ></a>
             </div>
             
             <div class="nav-wrap flat-text-right style1">
@@ -24,6 +24,13 @@
                         <li>
                             <li ><a href="contact.php">CONTACT US</a></li>
                         </li>
+
+                        <li>
+                        
+                            <button onclick="window.location.href='admin/members.php'" class="btn btn-lg">
+                            <span  class="fa fa-users "></span>
+                            </button> 
+                        </li>
                                                                 
                     </ul>
                 </nav>
@@ -37,8 +44,14 @@
                             <button class="btn-search"><span class="icon-search"></span></button>
                         </form>
                     </div>
+                    
                 </div> 
+
+                
             </div>
+            
+
+            
 
             <div class="mobile-button">
                 <span></span>

@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en"> 
 <head>
+<?php  include('session.php')  ?>
 <?php  include('./includes/head.php')  ?>
 </head>
 <body>
@@ -37,7 +38,7 @@
                                 </div>
                                 <div>
                                     <label class="form-label" for="customFile">Internship Featured Image</label>
-                                    <input type="file" class="form-control" id="customFile" />
+                                    <input type="file" name="internship_img" class="form-control" id="customFile" />
                                 </div>
                                 <div class="form-group">
                                     <label>Internship Details</label>
@@ -55,7 +56,7 @@
                             </div>
                             <div class="modal-footer">
                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                                <button type="submit" name="registerbtn" class="btn btn-primary">Save</button>
+                                <button type="submit" name="addintrnshpbtn" class="btn btn-primary">Save</button>
                             </div>
                                 </form>
 
@@ -68,11 +69,10 @@
                 <!-- DataTales Example -->
                 <div class="card shadow mb-4">
                 <div class="card-header py-3">
-                    <h6 class="m-0 font-weight-bold text-primary">Internship Details 
                             <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#addinternship">
                             Add New Internship 
                             </button>
-                    </h6>
+                   
                 </div>
 
     <div class="card-body">
@@ -85,12 +85,14 @@
     $query_run = mysqli_query($connection, $query);
 
     ?>
+    <h3><strong>Internship Details </strong></h3>
 
       <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
         <thead>
           <tr>
             <th>ID </th>
             <th>Internship Title </th>
+            <th>Featured Image </th>
             <th>Internship Details </th>
             <th>Offered By</th>
             <th>Application Deadline</th>
@@ -110,6 +112,7 @@
             <tr>
             <td><?php echo $row['internship_id']; ?></td>
             <td><?php echo $row['internship_title']; ?></td>
+            <td><?php echo $row['internship_img']; ?></td>
             <td><?php echo $row['internship_details']; ?> <br> </td>
             <td><?php echo $row['internship_offered_by']; ?></td>
             <td><?php echo $row['internship_deadline']; ?></td>

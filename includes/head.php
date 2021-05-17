@@ -20,7 +20,7 @@
         
 
 
-        <link rel="shortcut icon" href="images/favicon.png">
+        <link rel="shortcut icon" href="images/sdk-favicon.png">
         <link rel="apple-touch-icon-precomposed" href="images/favicon-apple.png">
 
 

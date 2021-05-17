@@ -1,6 +1,6 @@
 <div id="sidebar-brand" >
     <a href="index.php" class="sidebar-title">
-        <i class="fa fa-cube"></i> <span class="sidebar-nav-mini-hide">SDK<strong>DASHBOARD</strong></span>
+        <i class="fa fa-dashboard"></i> <span class="sidebar-nav-mini-hide">SDK<strong>DASHBOARD</strong></span>
     </a>
 </div>
 
