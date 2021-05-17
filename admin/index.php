@@ -2,6 +2,7 @@
 <html class="no-js" lang="en"> 
 <head>
 <?php  include('./includes/head.php')  ?>
+<?php  include('./includes/dbconfig.php')  ?>
 </head>
 <body>
     <div id="page-container" class="header-fixed-top sidebar-visible-lg-full">
@@ -25,9 +26,17 @@
                                     <i class="gi gi-cardio text-light-op"></i>
                                 </div>
                                 <h2 class="widget-heading h3">
-                                    <strong>2835</strong>
+
+                                <?php
+                                $query = "SELECT id FROM users ORDER BY id";
+                                $query_run = mysqli_query($connection, $query);
+                                $row = mysqli_num_rows($query_run);
+                                echo '<strong>'.$row.'</strong>';
+
+                                ?>
+
                                 </h2>
-                                <span class="text-muted">SALES</span>
+                                <span class="text-muted">Total Users</span>
                             </div>
                         </a>
                     </div>
@@ -38,9 +47,16 @@
                                     <i class="gi gi-user text-light-op"></i>
                                 </div>
                                 <h2 class="widget-heading h3 text-success">
-                                    <strong>2862</strong>
+
+                                <?php
+                                $query = "SELECT internship_id FROM internships ORDER BY internship_id";
+                                $query_run = mysqli_query($connection, $query);
+                                $row = mysqli_num_rows($query_run);
+                                echo '<strong>'.$row.'</strong>';
+                                ?>
+
                                 </h2>
-                                <span class="text-muted">NEW USERS</span>
+                                <span class="text-muted">Total Internships Launched</span>
                             </div>
                         </a>
                     </div>
@@ -51,9 +67,14 @@
                                     <i class="gi gi-briefcase text-light-op"></i>
                                 </div>
                                 <h2 class="widget-heading h3 text-warning">
-                                    <strong>75</strong>
+                                    <?php
+                                    $query = "SELECT course_id FROM courses ORDER BY course_id";
+                                    $query_run = mysqli_query($connection, $query);
+                                    $row = mysqli_num_rows($query_run);
+                                    echo '<strong>'.$row.'</strong>';
+                                    ?>
                                 </h2>
-                                <span class="text-muted">PROJECTS</span>
+                                <span class="text-muted">Total Course Offered</span>
                             </div>
                         </a>
                     </div>

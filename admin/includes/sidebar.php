@@ -9,7 +9,7 @@
         
     <ul class="sidebar-nav">
     <li>
-        <a href="index.html" class=" active"><i class="gi gi-compass sidebar-nav-icon"></i><span class="sidebar-nav-mini-hide">DASHBOARD</span></a>
+        <a href="index.php" class=" active"><i class="gi gi-compass sidebar-nav-icon"></i><span class="sidebar-nav-mini-hide">DASHBOARD</span></a>
     </li>
     <li>
         <a href="#" class="sidebar-nav-menu"><i class="fa fa-chevron-left sidebar-nav-indicator sidebar-nav-mini-hide"></i><i class="fa fa-rocket sidebar-nav-icon"></i><span class="sidebar-nav-mini-hide">Internships</span></a>

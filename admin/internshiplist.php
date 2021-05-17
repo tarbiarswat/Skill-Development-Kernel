@@ -35,9 +35,13 @@
                                     <label> Internship Title </label>
                                     <input type="text" name="internship_title" class="form-control" placeholder="Enter Internship Title">
                                 </div>
+                                <div>
+                                    <label class="form-label" for="customFile">Internship Featured Image</label>
+                                    <input type="file" class="form-control" id="customFile" />
+                                </div>
                                 <div class="form-group">
                                     <label>Internship Details</label>
-                                    <input type="text" name="internship_details" class="form-control" placeholder="Enter Internship Details">
+                                    <input style="height:250px" type="text" name="internship_details" class="form-control" placeholder="Enter Internship Details">
                                 </div>
                                 <div class="form-group">
                                     <label>Offered By</label>
