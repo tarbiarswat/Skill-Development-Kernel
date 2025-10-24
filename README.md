@@ -1,6 +1,6 @@
 # Skill Development Kernel
 
-A minimal, stylish PHP site template for listing courses, programs and internships — ready for local development and safe review. 🎯
+A minimal, stylish PHP site template for listing courses, programs and internships, ready for local development and safe review. 🎯
 
 ## Quick start
 
@@ -21,7 +21,7 @@ mysql -u root -p < .\sdk_db.sql
 
 ## Why this repo is useful
 
-- Lightweight and self-contained — no Composer required.
+- Lightweight and self-contained, no Composer required.
 - Ready-made public pages (`index.php`, `programs.php`, `coursedetails.php`, `internships.php`, `contact.php`) and a small admin panel (`admin/`).
 
 ## Important security notes
